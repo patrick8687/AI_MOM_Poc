@@ -1,0 +1,8 @@
+Slide 7 — Benefits & Metrics
+
+- Time saved: Faster MoM creation vs manual
+- Consistency: Standardized format for all meetings
+- Traceability: Transcript + MoM keeps decisions auditable
+
+Speaker notes:
+Suggest possible KPIs: minutes saved per meeting, % actions captured.

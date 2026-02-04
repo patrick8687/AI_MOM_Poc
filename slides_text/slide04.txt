@@ -1,0 +1,9 @@
+Slide 4 — Demo Flow
+
+1. Upload audio (mp3/wav/m4a)
+2. Automatic transcription (Whisper)
+3. Edit transcript in-app
+4. Generate and download MoM (Gemini model)
+
+Speaker notes:
+Walk through UI briefly; mention temporary file handling.

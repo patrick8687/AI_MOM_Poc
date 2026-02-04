@@ -1,0 +1,7 @@
+Slide 9 — Next Steps / Roadmap
+
+- Short term: Add PPT export, richer templates, multi-speaker diarization
+- Mid term: Integrate calendar + auto-upload, user auth, persistent storage
+
+Speaker notes:
+Offer timeline (weeks/months) and required resources.

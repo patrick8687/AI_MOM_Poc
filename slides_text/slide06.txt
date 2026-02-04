@@ -1,0 +1,7 @@
+Slide 6 — Example Output
+
+- MoM format: Markdown with sections — Key Discussion Points, Decisions, Action Items
+- Editable: Action items include owner when mentioned
+
+Speaker notes:
+Show a short before/after: small transcript -> concise bullet MoM.

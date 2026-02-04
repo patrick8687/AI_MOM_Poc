@@ -1,0 +1,7 @@
+`app.py` — Purpose
+
+- Purpose: Streamlit front-end for uploading audio, editing transcript, and generating/downloading Minutes of Meeting (MoM).
+- Key sections: page config, file uploader, temporary audio saving, buttons to transcribe and generate MoM, editable transcript text area, download button.
+- Where to edit: change UI layout and text in `app.py`.
+- How it runs: `streamlit run app.py`.
+- Notes: relies on `process_meeting` and `generate_mom_from_text` from `engine.py` and expects `GOOGLE_API_KEY` in `.env`.

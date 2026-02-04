@@ -1,0 +1,7 @@
+Slide 3 — Solution
+
+- Product: Streamlit app that transcribes audio and generates MoM
+- Key features: Automatic transcription, editable transcript, AI-generated MoM, download as Markdown
+
+Speaker notes:
+Emphasize editable transcript before MoM to ensure accuracy.

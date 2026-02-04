@@ -1,0 +1,9 @@
+Slide 5 — Architecture & Tech
+
+- Frontend: Streamlit (`app.py`)
+- Transcription: OpenAI Whisper (`engine.py`)
+- Generation: Google Gemini via `google-generativeai`
+- Env & deps: `.env` for API key, `requirements.txt`
+
+Speaker notes:
+One-line about why these choices (fast prototyping, strong transcription + generation).

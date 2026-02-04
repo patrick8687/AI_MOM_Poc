@@ -1,0 +1,6 @@
+`requirements.txt` — Purpose
+
+- Purpose: Lists Python dependencies for the project (used by `pip install -r requirements.txt`).
+- Typical contents: `streamlit`, `openai-whisper`, `google-generativeai`, `python-dotenv`.
+- Where to edit: add or pin versions for reproducible installs.
+- Notes: After changes run `pip install -r requirements.txt` in the virtual environment.

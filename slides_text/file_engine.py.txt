@@ -1,0 +1,10 @@
+`engine.py` — Purpose
+
+- Purpose: Handles audio transcription and MoM generation.
+- Key components:
+  - Loads Whisper model (`WHISPER_MODEL`) for transcription.
+  - Configures Google Generative AI client and model instance for MoM generation.
+  - `process_meeting(audio_path)` transcribes audio and returns the transcript (and cleans up temp files).
+  - `generate_mom_from_text(transcript)` builds the prompt using `MOM_PROMPT` and calls the Gemini model.
+- Where to edit: change model name, prompt formatting in `MOM_PROMPT` (from `prompts.py`), or add error handling/logging.
+- Notes: ensure `GOOGLE_API_KEY` in `.env`; model must exist for your API tier (use `list_models.py` to check).

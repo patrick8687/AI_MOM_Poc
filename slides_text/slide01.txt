@@ -1,0 +1,7 @@
+Slide 1 — Title
+
+Title: AI Meeting Minutes (MoM) Generator
+Subtitle: Transcribe meetings and generate editable, professional Minutes of Meeting
+
+Speaker notes:
+One-line intro: what the app does and who benefits (product managers, admins).

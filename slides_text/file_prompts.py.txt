@@ -1,0 +1,6 @@
+`prompts.py` — Purpose
+
+- Purpose: Stores prompt templates used by the generator.
+- Key symbols: `MOM_PROMPT` — a formatted string where the transcript is inserted before sending to the LLM.
+- Where to edit: change tone, sections, or rules in `MOM_PROMPT` to tweak MoM output.
+- Notes: Keep prompts concise and include formatting instructions (Markdown, bullets, sections) for predictable output.

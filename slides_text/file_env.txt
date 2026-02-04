@@ -1,0 +1,6 @@
+`.env` — Purpose
+
+- Purpose: Store environment variables such as `GOOGLE_API_KEY` (not checked into source control).
+- Typical content: `GOOGLE_API_KEY=your_api_key_here`
+- Where to edit: populate with your API credentials before running the app.
+- Notes: Keep this file secret; add `.env` to `.gitignore` for repo safety.

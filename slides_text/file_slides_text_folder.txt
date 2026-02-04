@@ -1,0 +1,6 @@
+`slides_text/` — Purpose
+
+- Purpose: Stores one-slide-per-file text snippets and related exports (created by the assistant).
+- Contents: `slide01.txt`..`slide10.txt` and the new `file_*.txt` explanations.
+- Where to edit: update slide wording or add new slide files.
+- Notes: These are plain text files for copy-paste into a PPT tool or to be converted to `.pptx`.

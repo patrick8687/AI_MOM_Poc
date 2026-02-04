@@ -1,0 +1,7 @@
+Slide 2 — Problem
+
+- Pain: Manual minute-taking is time-consuming and error-prone
+- Impact: Missed decisions, unclear action items, wasted time
+
+Speaker notes:
+Give a quick example: long meetings, no single source of truth.

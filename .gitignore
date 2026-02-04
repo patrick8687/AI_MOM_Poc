@@ -1,0 +1,72 @@
+# ======================
+# Python
+# ======================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# ======================
+# Virtual Environment
+# ======================
+venv/
+.env
+
+# ======================
+# Streamlit
+# ======================
+.streamlit/
+
+# ======================
+# OS / Editor
+# ======================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# ======================
+# Audio / Temp Files
+# ======================
+*.wav
+*.mp3
+*.m4a
+temp_audio.*
+*.ogg
+
+# ======================
+# Logs
+# ======================
+*.log
+
+# ======================
+# Models / Cache
+# ======================
+.cache/
+huggingface/
+torch_cache/
+
+# ======================
+# Misc
+# ======================
+*.zip
+*.tar
+*.gz
+
+# Python tooling / testing
+.venv/
+.python-version
+.pytest_cache/
+.mypy_cache/
+.coverage
+coverage.xml
+pip-wheel-metadata/
+__pypackages__/
+.ipynb_checkpoints/
+
+# End of file

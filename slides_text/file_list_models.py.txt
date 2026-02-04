@@ -1,0 +1,6 @@
+`list_models.py` — Purpose
+
+- Purpose: Utility script that lists available Gemini/Gemma models for your API key.
+- Key use: Run to discover which model names and capabilities (`generateContent`, etc.) are available.
+- How to run: `python list_models.py` (requires `GOOGLE_API_KEY` in `.env`).
+- Notes: Use the printed model names in `engine.py` when configuring `genai.GenerativeModel(...)`.

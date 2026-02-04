@@ -1,0 +1,11 @@
+Slide 10 — Call to Action
+
+- Ask: Pilot with X meetings / provide test audio
+- Contact: Link to repo and how to run locally
+
+How to run locally:
+pip install -r requirements.txt
+streamlit run app.py
+
+Speaker notes:
+Close with demo invitation and Q&A.

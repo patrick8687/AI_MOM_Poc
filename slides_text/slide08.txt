@@ -1,0 +1,8 @@
+Slide 8 — Security & Operational Notes
+
+- Data handling: Temporary audio file removed after processing
+- Config: Requires GOOGLE_API_KEY in .env
+- Limitations: Model availability varies by API tier; cost considerations for large usage
+
+Speaker notes:
+Recommend policies for sensitive meetings.
