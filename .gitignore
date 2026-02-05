@@ -34,7 +34,7 @@ Thumbs.db
 # Audio / Temp Files
 # ======================
 *.wav
-*.mp3
+# *.mp3
 *.m4a
 temp_audio.*
 *.ogg
